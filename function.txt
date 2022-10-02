@@ -1,1 +1,3 @@
-function1 -> this is my function 1 add for testing
+function 1 -> this is my function 1 add for testing
+function 2 -> this function npt working sometimes improvise
+function 3 -> this function 3 is very important 
